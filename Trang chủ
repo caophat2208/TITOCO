@@ -1,0 +1,986 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>TITOCO::Truyền thông Công Giáo TGP Sài Gòn</title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv='cache-control' content='no-cache'>
+    <meta http-equiv='expires' content='0'>
+    <meta http-equiv='pragma' content='no-cache'>
+    <link href="/Images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="/Content/Css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/Content/Css/all.min.css" />
+    <link rel="stylesheet" href="/Content/Css/responsive.css" />
+    <link rel="stylesheet" href="/Content/Css/style.css" />
+    <link rel="stylesheet" href="/Content/Css/css-main.css" />
+    <link rel="stylesheet" href="/Content/Css/menu.css" />
+    <!--     Fonts and icons     -->
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body style="background:#fff">
+    <div class="container-fluid">
+        <div class="container">
+    <header class="row">
+        <div class="logo pull-left">
+            <a href="/">
+                <img src="/Images/logo.png" />
+            </a>            
+        </div>
+        <div class="header-right pull-right">
+            <img src="/Images/header-logo-right.png" />
+        </div>
+    </header>
+</div>    
+    </div>   
+    <div class="space_all" data-spy="affix" data-offset-top="197">
+        <div class="container-fluid menu-bg">
+
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            <div class="mainmenu cut_bottom_1">
+                <ul class="nav navbar-nav collapse navbar-collapse">
+                    <li class="home">
+                        <a href="/">
+                            <i class="fa fa-home"></i>
+                            Trang chủ
+                        </a>
+                    </li>
+                    <!--dao tao-->
+                    <li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            đào tạo
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <i class="fas fa-user-graduate"></i>
+                                <span>
+                                    <a href="#">
+                                        Khóa đào tạo MVTT
+                                    </a>
+                                </span>
+                            </li>
+                            <li>
+                                <i class="fas fa-user-friends"></i>
+                                <span>
+                                    <a href="#">
+                                        Danh mục học viên
+                                    </a>
+                                </span>
+                            </li>
+                        </ul>
+                    </li>
+                    <!--thong tin-->
+                    <li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            Thông tin
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <i class="fas fa-microphone"></i>
+                                <span>
+                                    <a href="#">
+                                        Thông báo
+                                    </a>
+                                </span>
+                            </li>
+                            <li>
+                                <i class="fas fa-comments"></i>
+                                <span>
+                                    <a href="#">
+                                        Truyền thông
+                                    </a>
+                                </span>
+                            </li>
+                        </ul>
+                    </li>
+                    <!--ky yeu-->
+                    <li class="home">
+                        <a href="/ky-yeu/danh-muc-giao-xu">
+                            Kỷ yếu giáo xứ
+                        </a>
+                    </li>
+
+                    <!--thanh vien-->
+                    <li class="home">
+                        <a href="/">
+                            thành viên
+                        </a>
+                    </li>
+                    <!--Cuoc thi sang tac-->
+                    <li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            Cuộc thi sáng tác
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <i class="fa fa-bookmark"></i>
+                                <span>
+                                    <a href="/noi-dung-tac-pham/cuoc-thi-anh-sang-gia-dinh-thoi-covid-52-08002021092021">
+                                        Thể lệ tham dự
+                                    </a>
+                                </span>
+                            </li>
+                            <li>
+                                <i class="fa fa-edit"></i>
+                                <span>
+                                    <a href="#">
+                                        Bài dự thi
+                                    </a>
+                                </span>
+                            </li>
+                            <li>
+                                <i class="fa fa-check"></i>
+                                <span>
+                                    <a href="#">
+                                        Bài được chọn
+                                    </a>
+                                </span>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav pull-right">
+                    <li class="menu-account">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="fa fa-user"></i>
+                            Tài khoản
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                                <li>
+                                    <i class="fa fa-lock"></i>
+                                    <span><a href="/thanh-vien/dang-nhap"> Đăng nhập</a></span>
+                                </li>
+                                <li>
+                                    <i class="fas fa-user-plus"></i>
+                                    <span><a href="/thanh-vien/dang-ky"> Đăng ký</a></span>
+                                </li>
+                                <li>
+                                    <i class="fa fa-key"></i>
+                                    <span><a href="/thanh-vien/quen-password"> Quên Password</a></span>
+                                </li>
+                        </ul>
+                    </li>
+                </ul>               
+            </div>
+        </div>
+    </div>
+</div>        </div>
+        <div class="container">          
+        </div>
+    </div>
+
+    <div class="container-fluid anhsangkitohuu-sheet">
+        <div class="part-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 deanery space_all">                        
+                        <div class="col-sm-5">
+                            <div class="clearfix">
+                                <div class="deanery-photo space_all">
+                                    <img src="/Images/Deanery/H_Tgpsg.png" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-7 deanery-list">
+                            <h3>SINH HOẠT MVTT GIÁO HẠT</h3>
+                            <div class="clearfix">
+                                <div class="information-inner-right space_all">
+                                    <div class="deanery-parish">
+                                        <table class="table table-responsive table-hover" style="margin: 1em 0 1em 0">
+                                            <thead>
+                                                <tr>
+                                                    <th>#</th>
+                                                    <th>Tên giáo hạt</th>
+                                                    <th style="text-align:center">Thành viên</th>
+                                                    <th style="text-align:center">Giáo xứ</th>
+                                                    <th style="text-align:center">Bài đăng TGPSAIGON.NET</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+
+                                                <tr>
+                                                    <td style="text-align:center">1</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="8" name="X&#243;m Mới" href="/thanh-vien/xom-moi-8">
+                                                            X&#243;m Mới
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">45</td>
+                                                    <td style="text-align:center">15</td>
+                                                    <td style="text-align:center">400</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">2</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="14" name="X&#243;m Chiếu" href="/thanh-vien/xom-chieu-14">
+                                                            X&#243;m Chiếu
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">7</td>
+                                                    <td style="text-align:center">13</td>
+                                                    <td style="text-align:center">7</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">3</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="3" name="Thủ Thi&#234;m" href="/thanh-vien/thu-thiem-3">
+                                                            Thủ Thi&#234;m
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">6</td>
+                                                    <td style="text-align:center">17</td>
+                                                    <td style="text-align:center">41</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">4</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="2" name="Thủ Đức" href="/thanh-vien/thu-duc-2">
+                                                            Thủ Đức
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">65</td>
+                                                    <td style="text-align:center">12</td>
+                                                    <td style="text-align:center">356</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">5</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="6" name="T&#226;n Sơn Nh&#236;" href="/thanh-vien/tan-son-nhi-6">
+                                                            T&#226;n Sơn Nh&#236;
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">70</td>
+                                                    <td style="text-align:center">18</td>
+                                                    <td style="text-align:center">157</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">6</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="11" name="T&#226;n Định" href="/thanh-vien/tan-dinh-11">
+                                                            T&#226;n Định
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">35</td>
+                                                    <td style="text-align:center">11</td>
+                                                    <td style="text-align:center">400</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">7</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="10" name="S&#224;i G&#242;n - Chợ Qu&#225;n" href="/thanh-vien/sai-gon-cho-quan-10">
+                                                            S&#224;i G&#242;n - Chợ Qu&#225;n
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">35</td>
+                                                    <td style="text-align:center">19</td>
+                                                    <td style="text-align:center">227</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">8</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="5" name="Ph&#250; Thọ" href="/thanh-vien/phu-tho-5">
+                                                            Ph&#250; Thọ
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">65</td>
+                                                    <td style="text-align:center">15</td>
+                                                    <td style="text-align:center">622</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">9</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="12" name="Ph&#250; Nhuận" href="/thanh-vien/phu-nhuan-12">
+                                                            Ph&#250; Nhuận
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">11</td>
+                                                    <td style="text-align:center">9</td>
+                                                    <td style="text-align:center">23</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">10</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="9" name="H&#243;c M&#244;n" href="/thanh-vien/hoc-mon-9">
+                                                            H&#243;c M&#244;n
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">19</td>
+                                                    <td style="text-align:center">20</td>
+                                                    <td style="text-align:center">62</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">11</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="7" name="G&#242; Vấp" href="/thanh-vien/go-vap-7">
+                                                            G&#242; Vấp
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">26</td>
+                                                    <td style="text-align:center">11</td>
+                                                    <td style="text-align:center">46</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">12</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="1" name="Gia Định" href="/thanh-vien/gia-dinh-1">
+                                                            Gia Định
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">19</td>
+                                                    <td style="text-align:center">14</td>
+                                                    <td style="text-align:center">1000</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">13</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="4" name="Ch&#237; Ho&#224;" href="/thanh-vien/chi-hoa-4">
+                                                            Ch&#237; Ho&#224;
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">20</td>
+                                                    <td style="text-align:center">17</td>
+                                                    <td style="text-align:center">210</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:center">14</td>
+                                                    <td class="deaneryName">
+                                                        <a id="deaneryName" data-id="13" name="B&#236;nh An" href="/thanh-vien/binh-an-13">
+                                                            B&#236;nh An
+                                                        </a>
+                                                    </td>
+                                                    <td style="text-align:center">14</td>
+                                                    <td style="text-align:center">13</td>
+                                                    <td style="text-align:center">16</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        
+
+<div class="container">
+    <!--ky yeu giao xu-->
+    <div class="row">
+        <div class="col-sm-12" style="margin-top:1.5em">
+            <div class="type-heading space_all">
+                <h3>
+                    <a href="https://tgpsaigon.net/diem-tin/gioi-thieu-giao-xu-1157" target="_blank">Giới thiệu giáo xứ</a>
+                </h3>
+                <hr />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/giao-xu-an-nhon-2020-9-04364816072022">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/16072022_163648.jpg" />
+                            </div>
+                            <p>Gi&#225;o xứ An Nhơn 2020</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/giao-xu-an-lac-2022-8-04310916072022">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/16072022_163109.jpg" />
+                            </div>
+                            <p>Gi&#225;o xứ An Lạc 2022</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/giao-xu-an-binh-2018-7-04014616072022">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/16072022_160146.jpg" />
+                            </div>
+                            <p>Gi&#225;o xứ An B&#236;nh 2018</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/giao-diem-doi-lau-2017-6-04365014072022">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/14072022_163650.jpg" />
+                            </div>
+                            <p>Gi&#225;o điểm Doi Lầu 2017</p>
+                        </a>
+                    </div>
+                </div>
+    </div>
+
+    <!--phim truyen-->
+    <div class="row">
+        <div class="col-sm-12" style="margin-top:1.5em">
+            <div class="type-heading space_all">
+                <h3>
+                    <a href="#">Phim truyện & Tin Mừng</a>
+                </h3>
+                <hr />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/phim-mon-no-va-nhung-xung-dot-can-duoc-giai-quyet-23-08352821122022">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/21122022_203528.jpg" />
+                            </div>
+                            <p>Phim &quot;M&#243;n Nợ&quot; v&#224; những xung đột cần được giải quyết</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/phim-ngan-cai-hop-tien-21-05521121122022">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/21122022_175211.jpg" />
+                            </div>
+                            <p>Phim ngắn &quot;C&#225;i Hộp Tiền&quot;</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/phimchiec-xe-may‘yen-ui-ke-au-lo-va-‘hieu-lam-20-05471021122022">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/21122022_174710.jpg" />
+                            </div>
+                            <p>Phim &#39;Chiếc xe m&#225;y&#39;: ‘Y&#234;n ủi kẻ &#226;u lo’ v&#224; ‘Hiểu lầm’</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/phim-truyen-ngan-thoi-covid-nhung-vong-tay-am-19-06421714112022">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/14112022_184217.jpg" />
+                            </div>
+                            <p>Phim truyện ngắn thời Covid: Những v&#242;ng tay ấm</p>
+                        </a>
+                    </div>
+                </div>
+    </div>
+
+    <!--Bai viet-->
+    <div class="row">
+        <div class="col-sm-12" style="margin-top:1.5em">
+            <div class="type-heading space_all">
+                <h3>
+                    <a href="#">Tác phẩm viết</a>
+                </h3>
+                <hr />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-tac-pham/ket-qua-4-dot-thianh-sang-gia-dinh-thoi-covid--124-10383607012022">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/MainImages/07012022_103836.jpg" />
+                        </div>
+                        <p>Kết quả 4 đợt thi &#39;&#193;nh s&#225;ng Gia đ&#236;nh thời Covid&#39;</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-tac-pham/giao-xu-tan-hung-khoi-dau-hien-tai1955-2021--123-06012628122021">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/MainImages/28122021_180126.JPG" />
+                        </div>
+                        <p>Gi&#225;o xứ T&#226;n Hưng: Khởi Đầu &amp; Hiện tại (1955-2021)</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-tac-pham/thoi-covid-phai-luon-tinh-thuc-122-06435003122021">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/MainImages/03122021_184350.jpg" />
+                        </div>
+                        <p>Thời Covid: phải lu&#244;n tỉnh thức!</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-tac-pham/giai-thuong-tu-21-9-den-1-10-2021-120-07545225112021">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/MainImages/25112021_195452.jpg" />
+                        </div>
+                        <p>Giải thưởng từ 21-9 đến 1-10-2021</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-tac-pham/vi-co-chuacon-khong-co-don-119-07530425112021">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/MainImages/25112021_195304.jpg" />
+                        </div>
+                        <p>V&#236; c&#243; Ch&#250;a, con kh&#244;ng c&#244; đơn</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-tac-pham/thanh-le-cau-nguyen-cho-nhung-nguoi-qua-doi-vi-covid-116-11180820112021">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/MainImages/20112021_111808.jpg" />
+                        </div>
+                        <p>Th&#225;nh lễ cầu nguyện cho những người qua đời v&#236; Covid</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-tac-pham/ngay-nha-giao-xin-tri-an-va-nguyen-cau-115-05190619112021">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/MainImages/19112021_171906.jpg" />
+                        </div>
+                        <p>Ng&#224;y Nh&#224; Gi&#225;o Xin Tri &#194;n V&#224; Nguyện Cầu</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-tac-pham/khoang-lang-114-10260119112021">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/MainImages/19112021_102601.jpg" />
+                        </div>
+                        <p>Khoảng lặng</p>
+                    </a>
+                </div>
+            </div>
+    </div>
+
+    <!--Video-->
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="type-heading space_all">
+                <h3>
+                    <a href="#">Tác phẩm Video Clip</a>
+                </h3>
+                <hr />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-video/bac-ai-la-khong-noi-hanhnoi-xau-nhau-lm-roberto-pham-van-binh-crm-125-06294005052024">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/Videos/MainImages/05052024-182940.jpg" />
+                        </div>
+                        <p>B&#193;C &#193;I L&#192; KH&#212;NG N&#211;I H&#192;NH, N&#211;I XẤU NHAU / Lm R&#244;bert&#244; Phạm Văn B&#236;nh CRM</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-video/bai-giang-lm-vinh-son-nguyen-the-thu-bien-doi-nen-chung-nhan-chua-nhat-tuan-iii-phuc-sinh-nam-b-124-10202016042024">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/Videos/MainImages/16042024-102020.jpg" />
+                        </div>
+                        <p>B&#224;i giảng Lm Vinh Sơn Nguyễn Thế Thủ / BIẾN ĐỔI N&#202;N CHỨNG NH&#194;N / Ch&#250;a nhật tuần III Phục Sinh năm B</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-video/gx-mau-tam-hat-chi-hoa-thanh-le-vong-phuc-sinh-032024-123-01094502042024">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/Videos/MainImages/02042024-130945.jpg" />
+                        </div>
+                        <p>Gx. Mẫu T&#226;m - Hạt Ch&#237; H&#242;a - Th&#225;nh Lễ Vọng Phục Sinh - 03.2024</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-video/gx-mau-tam-hat-chi-hoa-dang-hat-thu-sau-tuan-thanh-032024-122-01081802042024">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/Videos/MainImages/02042024-130818.jpg" />
+                        </div>
+                        <p>Gx. Mẫu T&#226;m - Hạt Ch&#237; H&#242;a - D&#226;ng Hạt Thứ S&#225;u Tuần Th&#225;nh - 03.2024</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-video/gx-mau-tam-hat-chi-hoa-thu-sau-tuan-thanh-032024-121-01065602042024">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/Videos/MainImages/02042024-130656.jpg" />
+                        </div>
+                        <p>Gx. Mẫu T&#226;m - Hạt Ch&#237; H&#242;a - Thứ S&#225;u Tuần Th&#225;nh - 03.2024</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-video/gx-mau-tam-hat-chi-hoa-thu-nam-tuan-thanh-032024-120-01052402042024">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/Videos/MainImages/02042024-130524.jpg" />
+                        </div>
+                        <p>Gx. Mẫu T&#226;m - Hạt Ch&#237; H&#242;a - Thứ Năm Tuần Th&#225;nh - 03.2024</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-video/thieu-nhi-gx-mau-tam-hat-chi-hoa-thu-nam-tuan-thanh-032024-119-01033802042024">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/Videos/MainImages/02042024-130338.jpg" />
+                        </div>
+                        <p>Thiếu nhi Gx. Mẫu T&#226;m - Hạt Ch&#237; H&#242;a - Thứ Năm Tuần Th&#225;nh - 03.2024</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/noi-dung-video/vai-tro-duc-maria-trong-cong-trinh-cuu-do-cua-chua-giesu-118-06325701042024">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Works/Videos/MainImages/01042024-183257.jpg" />
+                        </div>
+                        <p>Vai Tr&#242; Đức Maria trong C&#244;ng Tr&#236;nh Cứu Độ của Ch&#250;a Gi&#234;su</p>
+                    </a>
+                </div>
+            </div>
+    </div>
+
+    <!--Album anh-->
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="type-heading space_all">
+                <h3>
+                    <a href="#">Tác phẩm ảnh</a>
+                </h3>
+                <hr />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/chi-tiet-album/2023-12-14-giao-xu-tinh-tam-mua-vong-buoi-1-102-09492319022024" target="_blank">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Albums/MainAlbumImages/19022024_094923.jpg" width="100%" alt="" />
+                        </div>
+                        <p>2023/12/14 Gi&#225;o xứ tĩnh t&#226;m M&#249;a Vọng buổi 1</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/chi-tiet-album/hay-ra-cho-nuoc-sau-101-02004729062023" target="_blank">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Albums/MainAlbumImages/29062023_140047.jpeg" width="100%" alt="" />
+                        </div>
+                        <p>H&#227;y ra cho nước s&#226;u</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/chi-tiet-album/mvtt-gia-duc-thiem-du-xuan-2023-98-10365708022023" target="_blank">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Albums/MainAlbumImages/08022023_103657.jpg" width="100%" alt="" />
+                        </div>
+                        <p>MVTT Gia Đức Thi&#234;m du xu&#226;n 2023</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/chi-tiet-album/caritas-hat-tan-dinh-ngay-quoc-te-nguoi-ngheo-2022maria-loan-phuongviet-luyenngay-12-11-2022-97-03552622112022" target="_blank">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Albums/MainAlbumImages/22112022_155526.jpg" width="100%" alt="" />
+                        </div>
+                        <p>Caritas hạt T&#226;n Định: Ng&#224;y Quốc Tế người Ngh&#232;o 2022  Maria Loan-Phượng  Viết Luyện  Ng&#224;y 12/11/2022</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/chi-tiet-album/duc-tgm-leopoldo-girelli-tham-cac-gia-dinh-kho-khan-bai-maria-loan-phuong-anh-ngo-viet-luyen-ngay-25-06-2016-96-11523105112022" target="_blank">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Albums/MainAlbumImages/05112022_115231.jpg" width="100%" alt="" />
+                        </div>
+                        <p>Đức TGM Leopoldo Girelli thăm c&#225;c gia đ&#236;nh kh&#243; khăn B&#224;i: Maria Loan Phượng &amp; Ảnh: Ng&#244; Viết Luyện Ng&#224;y 25/06/2016</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/chi-tiet-album/giao-xu-bui-phat-mua-chay-trong-dai-dich-covid-19-bai-anh-viet-luyen-95-08390404112022" target="_blank">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Albums/MainAlbumImages/04112022_083904.jpg" width="100%" alt="" />
+                        </div>
+                        <p>Gi&#225;o xứ B&#249;i Ph&#225;t: M&#249;a Chay trong đại dịch covid-19 B&#224;i &amp; Ảnh: Viết Luyện</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/chi-tiet-album/giao-xu-bui-phat-mua-chay-trong-dai-dich-covid-19-bai-anh-viet-luyen-94-06173203112022" target="_blank">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Albums/MainAlbumImages/03112022_181732.jpg" width="100%" alt="" />
+                        </div>
+                        <p>Gi&#225;o xứ B&#249;i Ph&#225;t: M&#249;a Chay trong đại dịch covid-19 B&#224;i &amp; Ảnh: Viết Luyện</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="article-homepage-list-content-inner">
+                    <a href="/chi-tiet-album/duc-tong-giam-muc-leopoldo-girelli-den-tham-cac-gia-dinh-ngheo-trong-giao-hat-tan-dinh-baingo-viet-luyen-va-anhngo-van-kiem-93-09370803112022" target="_blank">
+                        <div class="article-homepage-list-content-inner-image">
+                            <img src="/Images/Albums/MainAlbumImages/03112022_093707.jpg" width="100%" alt="" />
+                        </div>
+                        <p>Đức Tổng Gi&#225;m mục Leopoldo Girelli đến thăm c&#225;c gia đ&#236;nh ngh&#232;o trong gi&#225;o hạt T&#226;n Định B&#224;i : Ng&#244; Viết Luyện v&#224; Ảnh : Ng&#244; Văn Kiểm</p>
+                    </a>
+                </div>
+            </div>
+    </div>
+
+    <!--chieu sinh-->
+    <div class="row">
+        <div class="col-sm-12" style="margin-top:1.5em">
+            <div class="type-heading space_all">
+                <h3>
+                    <a href="#">chiêu sinh</a>
+                </h3>
+                <hr />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/cac-khoa-muc-vu-truyen-thong-nien-khoa-2022-2023-10-07580616072022">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/16072022_195806.jpg" />
+                            </div>
+                            <p>C&#225;c kh&#243;a Mục vụ Truyền Th&#244;ng ni&#234;n kh&#243;a 2022-2023</p>
+                        </a>
+                    </div>
+                </div>
+    </div>
+
+    <!--khoa dao tao mvtt-->
+    <div class="row">
+        <div class="col-sm-12" style="margin-top:1.5em">
+            <div class="type-heading space_all">
+                <h3>
+                    <a href="#">khóa đào tạo MVTT</a>
+                </h3>
+                <hr />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/cac-khoa-tap-huan-muc-vu-truyen-thong-giao-hat-28-03105822012024">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/22012024_151058.jpg" />
+                            </div>
+                            <p>C&#225;c kh&#243;a Tập huấn Mục vụ Truyền th&#244;ng Gi&#225;o hạt</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/hoc-vien-cong-giao-muc-vu-truyen-thong-nam-1-27-10304122012024">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/16022024_144232.jpg" />
+                            </div>
+                            <p>Học viện C&#244;ng Gi&#225;o: Mục vụ Truyền Th&#244;ng năm 1</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/ttmv-hk2-nien-khoa-2023-2024-24-03383421012024">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/22012024_031948.jpg" />
+                            </div>
+                            <p>TTMV HK2 Ni&#234;n kh&#243;a 2023-2024</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/ttmv-hk1-nien-khoa-2023-2024-25-12000031122023">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/22012024_045509.jpg" />
+                            </div>
+                            <p>TTMV HK1 Ni&#234;n kh&#243;a 2023-2024</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/ttmv-mvtt-nien-khoa-2022-2023-26-05084030122022">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/22012024_050840.jpg" />
+                            </div>
+                            <p>TTMV MVTT Ni&#234;n kh&#243;a 2022-2023</p>
+                        </a>
+                    </div>
+                </div>
+    </div>
+
+    <!--tu lieu-->
+    <div class="row">
+        <div class="col-sm-12" style="margin-top:1.5em">
+            <div class="type-heading space_all">
+                <h3>
+                    <a href="#">tư liệu</a>
+                </h3>
+                <hr />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+                <div class="col-sm-3">
+                    <div class="article-homepage-list-content-inner">
+                        <a href="/noi-dung-post/tu-lieu-muc-vu-truyen-thong-tong-quan-11-08165016072022">
+                            <div class="article-homepage-list-content-inner-image">
+                                <img src="/Images/Articles/SmallImages/16072022_201650.png" />
+                            </div>
+                            <p>Tư liệu Mục vụ Truyền Th&#244;ng Tổng Quan</p>
+                        </a>
+                    </div>
+                </div>
+    </div>
+</div>
+    </div>
+    <!--footer-->
+    <div id="footer" style="bottom:0;width:100%;">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="container-fluid footer-bg" id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 space_all">
+                <div class="footer">
+                    <div class="col-sm-4 footer-heading">
+                        <h4>LIÊN HỆ</h4>
+                        <div class="footer-inner-content">
+                            <ul>
+                                <li style="font-size:1.0em;text-transform:uppercase;font-weight:400">                                    
+                                    <label>Ban tổ chức & phát triển chương trình</label>
+                                </li>                               
+                                <li>
+                                    <i class="fa fa-mobile-phone"></i> 0817511957
+                                </li>
+                                <li>
+                                    <i class="glyphicon glyphicon-envelope"></i>
+                                    sumangtruyenthong@gmail.com
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-2 footer-heading">
+                        <h4>TÊN MIỀN</h4>
+                        <div class="footer-inner-content">
+                            <ul>
+                                <li><a href="https://titocovn.net">titocovn.net</a></li>
+                            </ul>
+                        </div>
+                        <h4>MẠNG XÃ HỘI</h4>
+                        <div class="social-network-inner">
+                            <div class="height-follow">
+                                <ul class="follow">
+                                    <li><a href="#"><i class="fa fa-2x fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-2x fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-2x fa-youtube"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 footer-heading">
+                        <h4>WEB LIÊN KẾT</h4>
+                        <div class="footer-inner-content">
+                            <ul>
+                                <li><a href="https://tgpsaigon.net">Tổng Giáo phận Sài Gòn</a></li>
+                                <li><a href="https://hdgmvietnam.com">Hội đồng Giám Mục Việt Nam</a></li>
+                                <li><a href="http://tvhiepthong.com">TV Hiệp Thông</a></li>
+                                <li><a href="http://ttmucvusaigon.org/">Trung tâm Mục vụ Sài Gòn</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 footer-heading">
+                        <h4>THỐNG KÊ TRUY CẬP</h4>
+                        <div class="footer-inner-content">
+                            <ul>
+
+                                <li><i class="fas fa-chart-bar"></i> Số truy cập 6465424</li>
+                                <li>
+
+                                    <span class="glyphicon glyphicon-eye-open"></span>
+                                    Đang online 141408
+                                </li>
+                                <li><span class="glyphicon glyphicon-user"></span> IP Address </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section id="footer-bottom">
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 footer-bottom-copyright">
+                    <label>
+                        ©2021 titocovn.net All rights reserved. Ban tổ chức chương trình - Giữ bản quyền.
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    </div>
+</body>
+</html>
