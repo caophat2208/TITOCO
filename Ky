@@ -1,0 +1,631 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>MVTT TGP Sài Gòn - Kỷ yếu giáo xứ</title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv='cache-control' content='no-cache'>
+    <meta http-equiv='expires' content='0'>
+    <meta http-equiv='pragma' content='no-cache'>
+    <link href="/Images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="/Content/Css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/Content/Css/all.min.css" />
+    <link rel="stylesheet" href="/Content/Css/responsive.css" />
+    <link rel="stylesheet" href="/Content/Css/style.css" />
+    <link rel="stylesheet" href="/Content/Css/css-main.css" />
+    <link rel="stylesheet" href="/Content/Css/menu.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!--     Fonts and icons     -->
+    <link href="/Content/Css?v=3iEv8vqPidB6TVfgNOGrLoJr-SPH_mV3YwpggEk2_ao1" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+
+
+    <script src="/bundles/jquery?v=8Oos0avDZyPg-cbyVzvkIfERIE1DGSe3sRQdCSYrgEQ1"></script>
+
+    <script src="/bundles/bootstrap?v=M4Nk6kIOwMFflsEKET0iPL9i5YBqbzMzvUOrd8gyCnw1"></script>
+
+    
+</head>
+<body style="background:#fff">
+    <div class="container-fluid">
+        <div class="container">
+    <header class="row">
+        <div class="logo pull-left">
+            <a href="/">
+                <img src="/Images/logo.png" />
+            </a>            
+        </div>
+        <div class="header-right pull-right">
+            <img src="/Images/header-logo-right.png" />
+        </div>
+    </header>
+</div>
+
+    </div>
+    <div class="space_all" data-spy="affix" data-offset-top="197">
+        <div class="menu-bg space_all">
+            <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            <div class="mainmenu cut_bottom_1">
+                <ul class="nav navbar-nav collapse navbar-collapse">
+                    <li class="home">
+                        <a href="/">
+                            <i class="fa fa-home"></i>
+                            Trang chủ
+                        </a>
+                    </li>
+                    <!--dao tao-->
+                    <li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            đào tạo
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <i class="fas fa-user-graduate"></i>
+                                <span>
+                                    <a href="#">
+                                        Khóa đào tạo MVTT
+                                    </a>
+                                </span>
+                            </li>
+                            <li>
+                                <i class="fas fa-user-friends"></i>
+                                <span>
+                                    <a href="#">
+                                        Danh mục học viên
+                                    </a>
+                                </span>
+                            </li>
+                        </ul>
+                    </li>
+                    <!--thong tin-->
+                    <li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            Thông tin
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <i class="fas fa-microphone"></i>
+                                <span>
+                                    <a href="#">
+                                        Thông báo
+                                    </a>
+                                </span>
+                            </li>
+                            <li>
+                                <i class="fas fa-comments"></i>
+                                <span>
+                                    <a href="#">
+                                        Truyền thông
+                                    </a>
+                                </span>
+                            </li>
+                        </ul>
+                    </li>
+                    <!--ky yeu-->
+                    <li class="home">
+                        <a href="/ky-yeu/danh-muc-giao-xu">
+                            Kỷ yếu giáo xứ
+                        </a>
+                    </li>
+
+                    <!--thanh vien-->
+                    <li class="home">
+                        <a href="/">
+                            thành viên
+                        </a>
+                    </li>
+                    <!--Cuoc thi sang tac-->
+                    <li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            Cuộc thi sáng tác
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <i class="fa fa-bookmark"></i>
+                                <span>
+                                    <a href="/noi-dung-tac-pham/cuoc-thi-anh-sang-gia-dinh-thoi-covid-52-08002021092021">
+                                        Thể lệ tham dự
+                                    </a>
+                                </span>
+                            </li>
+                            <li>
+                                <i class="fa fa-edit"></i>
+                                <span>
+                                    <a href="#">
+                                        Bài dự thi
+                                    </a>
+                                </span>
+                            </li>
+                            <li>
+                                <i class="fa fa-check"></i>
+                                <span>
+                                    <a href="#">
+                                        Bài được chọn
+                                    </a>
+                                </span>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav pull-right">
+                    <li class="menu-account">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="fa fa-user"></i>
+                            Tài khoản
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                                <li>
+                                    <i class="fa fa-lock"></i>
+                                    <span><a href="/thanh-vien/dang-nhap"> Đăng nhập</a></span>
+                                </li>
+                                <li>
+                                    <i class="fas fa-user-plus"></i>
+                                    <span><a href="/thanh-vien/dang-ky"> Đăng ký</a></span>
+                                </li>
+                                <li>
+                                    <i class="fa fa-key"></i>
+                                    <span><a href="/thanh-vien/quen-password"> Quên Password</a></span>
+                                </li>
+                        </ul>
+                    </li>
+                </ul>               
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        
+<div class="container">
+    <section id="article-list" class="article-list">
+        <div class="topnav-part">
+            <h4>TGP Sài Gòn - Danh mục giáo xứ</h4>
+        </div>
+        <br />
+<form action="/ky-yeu/danh-muc-giao-xu" enctype="multipart/form-data" method="post">            <div class="col-sm-12 space_all">
+                <div class="col-sm-4">
+                    <input class="form-control" id="parishName" name="parishName" placeholder="Nhập tên giáo xứ..." type="text" value="" />
+                </div>
+                <div class="col-sm-4">
+                    <div class="form-group">
+                        <select class="form-control" id="ddDeanery" name="DeaneryId" style="max-width:350px;"><option value="">Chọn một gi&#225;o hạt...</option>
+<option value="13">B&#236;nh An</option>
+<option value="4">Ch&#237; Ho&#224;</option>
+<option value="1">Gia Định</option>
+<option value="7">G&#242; Vấp</option>
+<option value="9">H&#243;c M&#244;n</option>
+<option value="12">Ph&#250; Nhuận</option>
+<option value="5">Ph&#250; Thọ</option>
+<option value="10">S&#224;i G&#242;n - Chợ Qu&#225;n</option>
+<option value="11">T&#226;n Định</option>
+<option value="6">T&#226;n Sơn Nh&#236;</option>
+<option value="2">Thủ Đức</option>
+<option value="3">Thủ Thi&#234;m</option>
+<option value="14">X&#243;m Chiếu</option>
+<option value="8">X&#243;m Mới</option>
+</select>
+
+                    </div>
+                </div>
+                <div class="col-sm-4 btn-search">
+                    <button class="btn btn-default" id="search-btn">Tìm kiếm</button>
+                </div>
+            </div>
+</form>            
+        <div class="pager">
+            <div class="pagination pagination-normal pagination-centered icons"><ul><li class="active first"><span><i class="glyphicon glyphicon-step-backward"></i> </span></li><li class="active previous"><span><i class="glyphicon glyphicon-chevron-left"></i> </span></li><li class="active"><span>1</span></li><li><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=2" title="Trang 2">2</a></li><li><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=3" title="Trang 3">3</a></li><li><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=4" title="Trang 4">4</a></li><li><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=5" title="Trang 5">5</a></li><li><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=6" title="Trang 6">6</a></li><li><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=7" title="Trang 7">7</a></li><li class="next"><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=2" title="Tiếp trang 2"> <i class="glyphicon glyphicon-chevron-right"></i></a></li><li class="last"><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=7" title="Đến trang cuối"> <i class="glyphicon glyphicon-step-forward"></i></a></li></ul></div>
+        </div>
+
+        <div id="grid-list">
+            <div class="clearfix">
+
+<div class="article-list-content">
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-an-binh-699-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Anbinh_SGCQ.jpg" width="100%" />
+                    <p>An B&#236;nh</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-an-lac-638-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Anlac_CH.jpg" width="100%" />
+                    <p>An Lạc</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-an-nhon-926-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/giao-xu-an-nhon-19052020_102608.jpg" width="100%" />
+                    <p>An Nhơn</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-an-phu-881-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Anphu_XC.jpg" width="100%" />
+                    <p>An Ph&#250;</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-an-phu-944-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Anphu_TD.jpg" width="100%" />
+                    <p>An Ph&#250;</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-an-thoi-dong-882-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/giao-xu-an-thoi-dong-20052020_205211.jpg" width="100%" />
+                    <p>An Thới Đ&#244;ng</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-anton-639-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Antonpadova_CH.jpg" width="100%" />
+                    <p>Ant&#244;n</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-anton-cau-ong-lanh-706-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Anton_SGCQ.jpg" width="100%" />
+                    <p>Ant&#244;n Cầu &#212;ng L&#227;nh</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-ba-diem-681-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/giao-xu-ba-diem-14052020_155750.jpg" width="100%" />
+                    <p>B&#224; Điểm</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-ba-thon-680-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/giao-xu-ba-thon-15052020_090730.jpg" width="100%" />
+                    <p>Ba Th&#244;n</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-bac-ai-670-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Bacai_GV.jpg" width="100%" />
+                    <p>B&#225;c &#193;i</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-bac-dung-927-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Bacdung_XM.jpg" width="100%" />
+                    <p>Bắc Dũng</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-bac-ha-849-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Bacha_PT.jpg" width="100%" />
+                    <p>Bắc H&#224;</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-bach-dang-682-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/giao-xu-bach-dang-14052020_160807.jpg" width="100%" />
+                    <p>Bạch Đằng</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-ban-co-707-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Banco_SGCQ.jpg" width="100%" />
+                    <p>B&#224;n Cờ</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-ben-cat-671-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Bencat_GV.jpg" width="100%" />
+                    <p>Bến C&#225;t</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-ben-hai-672-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Benhai_GV.jpg" width="100%" />
+                    <p>Bến Hải</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-an-1-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Binhan_BA.jpg" width="100%" />
+                    <p>B&#236;nh An</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-an-thuong-2-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Binhanthuong_BA.jpg" width="100%" />
+                    <p>B&#236;nh An Thượng</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-chanh-908-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/giao-xu-binh-chanh-15052020_095101.jpg" width="100%" />
+                    <p>B&#236;nh Ch&#225;nh</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-chieu-959-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/giao-xu-binh-chieu.jpg" width="100%" />
+                    <p>B&#236;nh Chiểu</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-dong-3-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Binhdong_BA.jpg" width="100%" />
+                    <p>B&#236;nh Đ&#244;ng</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-hoa-667-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Binhhoa_GD.jpg" width="100%" />
+                    <p>B&#236;nh H&#242;a</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-hung-4-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/giao-xu-binh-hung-20052020_084447.jpg" width="100%" />
+                    <p>B&#236;nh Hưng</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-loi-655-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/giao-xu-binh-loi-15052020_081109.jpg" width="100%" />
+                    <p>B&#236;nh Lợi</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-minh-5-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Binhminh_BA.jpg" width="100%" />
+                    <p>B&#236;nh Minh</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-phuoc-700-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Binhphuoc_SGCQ.jpg" width="100%" />
+                    <p>B&#236;nh Phước</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-son-6-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Binhson_BA.jpg" width="100%" />
+                    <p>B&#236;nh Sơn</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-thai-7-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Binhthai_BA.jpg" width="100%" />
+                    <p>B&#236;nh Th&#225;i</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-tho-960-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/P_Binhtho_TD.jpg" width="100%" />
+                    <p>B&#236;nh Thọ</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-thoi-850-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/giao-xu-binh-thoi-13052020_200754.jpg" width="100%" />
+                    <p>B&#236;nh Thới</p>
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-3 cut_bottom_1">
+            <div class="article-list-content-inner">
+                <a href="/ky-yeu/giao-xu-binh-thuan-909-23114705142024" target="_blank">
+                    <img src="/Images/Parishes/ParishImages/giao-xu-binh-thuan-15052020_092831.JPG" width="100%" />
+                    <p>B&#236;nh Thuận</p>
+                </a>
+            </div>
+        </div>
+</div>
+
+            </div>
+        </div>
+        <div class="pager">
+            <div class="pagination pagination-normal pagination-centered icons"><ul><li class="active first"><span><i class="glyphicon glyphicon-step-backward"></i> </span></li><li class="active previous"><span><i class="glyphicon glyphicon-chevron-left"></i> </span></li><li class="active"><span>1</span></li><li><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=2" title="Trang 2">2</a></li><li><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=3" title="Trang 3">3</a></li><li><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=4" title="Trang 4">4</a></li><li><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=5" title="Trang 5">5</a></li><li><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=6" title="Trang 6">6</a></li><li><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=7" title="Trang 7">7</a></li><li class="next"><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=2" title="Tiếp trang 2"> <i class="glyphicon glyphicon-chevron-right"></i></a></li><li class="last"><a data-ajax="true" data-ajax-begin="beginPaging" data-ajax-failure="failurePaging" data-ajax-mode="replace" data-ajax-success="successPaging" data-ajax-update="#grid-list" href="/ky-yeu/danh-muc-giao-xu?Trang=trang&amp;page=7" title="Đến trang cuối"> <i class="glyphicon glyphicon-step-forward"></i></a></li></ul></div>
+        </div>
+    </section>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        $('a').tooltip();
+    });
+</script>
+
+<script type="text/javascript">
+
+    function beginPaging(args) {
+        // Animate
+        $('#grid-list').fadeOut('normal');
+    }
+
+    function successPaging() {
+        // Animate
+        $('#grid-list').fadeIn('normal');
+        $('a').tooltip();
+    }
+
+    function failurePaging() {
+        alert("Could not retrieve list.");
+    }
+</script>
+
+
+
+
+    </div>
+    <!--footer-->
+    <section id="footer" style="bottom:0;width:100%;">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="container-fluid footer-bg" id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 space_all">
+                <div class="footer">
+                    <div class="col-sm-4 footer-heading">
+                        <h4>LIÊN HỆ</h4>
+                        <div class="footer-inner-content">
+                            <ul>
+                                <li style="font-size:1.0em;text-transform:uppercase;font-weight:400">                                    
+                                    <label>Ban tổ chức & phát triển chương trình</label>
+                                </li>                               
+                                <li>
+                                    <i class="fa fa-mobile-phone"></i> 0817511957
+                                </li>
+                                <li>
+                                    <i class="glyphicon glyphicon-envelope"></i>
+                                    sumangtruyenthong@gmail.com
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-2 footer-heading">
+                        <h4>TÊN MIỀN</h4>
+                        <div class="footer-inner-content">
+                            <ul>
+                                <li><a href="https://titocovn.net">titocovn.net</a></li>
+                            </ul>
+                        </div>
+                        <h4>MẠNG XÃ HỘI</h4>
+                        <div class="social-network-inner">
+                            <div class="height-follow">
+                                <ul class="follow">
+                                    <li><a href="#"><i class="fa fa-2x fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-2x fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-2x fa-youtube"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 footer-heading">
+                        <h4>WEB LIÊN KẾT</h4>
+                        <div class="footer-inner-content">
+                            <ul>
+                                <li><a href="https://tgpsaigon.net">Tổng Giáo phận Sài Gòn</a></li>
+                                <li><a href="https://hdgmvietnam.com">Hội đồng Giám Mục Việt Nam</a></li>
+                                <li><a href="http://tvhiepthong.com">TV Hiệp Thông</a></li>
+                                <li><a href="http://ttmucvusaigon.org/">Trung tâm Mục vụ Sài Gòn</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 footer-heading">
+                        <h4>THỐNG KÊ TRUY CẬP</h4>
+                        <div class="footer-inner-content">
+                            <ul>
+
+                                <li><i class="fas fa-chart-bar"></i> Số truy cập 6465434</li>
+                                <li>
+
+                                    <span class="glyphicon glyphicon-eye-open"></span>
+                                    Đang online 141853
+                                </li>
+                                <li><span class="glyphicon glyphicon-user"></span> IP Address </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section id="footer-bottom">
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 footer-bottom-copyright">
+                    <label>
+                        ©2021 titocovn.net All rights reserved. Ban tổ chức chương trình - Giữ bản quyền.
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    </section>
+</body>
+</html>
